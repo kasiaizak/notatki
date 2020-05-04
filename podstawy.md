@@ -1,6 +1,7 @@
 # Budowa strony internetowej
 
-Strony internetowe składają się z warstw. Najniższa z nich (ale najważniejsza), warstwa 0, to **treść**.
+Strony internetowe składają się z warstw. Najniższa z nich (ale najważniejsza),
+warstwa 0, to **treść**.
 
 > Content is a king!
 
@@ -12,4 +13,4 @@ Kolejne warstwy to:
 
 Wyższe warstwy mogą wpływać na wszystkie warstwy poniżej, czyli:
 
-` JavaScript > CSS > HTML > TREŚĆ `
+`JavaScript > CSS > HTML > TREŚĆ`

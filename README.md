@@ -6,7 +6,7 @@
 
 ## 🏠 Strona domowa
 
-[https://kasiaizak.github.io/notatki](https://kasiaizak.github.io/notatki)
+[Notatnik](https://kasiaizak.github.io/notatki/index.html)
 
 ## Instalacja lokalna
 
@@ -25,14 +25,17 @@ npm i docsify-cli -g
 
 ### Podgląd strony
 
-Uruchamiając serwer lokalnie można podglądać zmiany strony na żywo pod adresem <http://localhost:3000>.
+Uruchamiając serwer lokalnie można podglądać zmiany strony na żywo pod adresem
+<http://localhost:3000>.
 
 ```sh
 docsify serve
 ```
 
-- Więcej przykładów użycia pakietu `docsify-cli` na stronie [github.com/docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-- Aby zobaczyć inne niesamowite funkcje `docsify` zajrzyj na stronę [docsify.js.org](https://docsify.js.org/)
+- Więcej przykładów użycia pakietu `docsify-cli` na stronie
+[github.com/docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+- Aby zobaczyć inne niesamowite funkcje `docsify` zajrzyj na stronę
+[docsify.js.org](https://docsify.js.org/)
 
 ## 🤝 Współtworzenie
 
@@ -42,24 +45,28 @@ docsify serve
 - Wypchnij je na gałąź: `git push origin my-new-feature`
 - Wyślij prośbę o wdrożenie zmian za pomocą *pull request*.
 
-Współtworzenie, zgłaszanie błędów i zapytania o nowe funkcjonalności są mile widziane!
+Współtworzenie, zgłaszanie błędów i zapytania o nowe funkcjonalności są mile
+widziane!
 
-- Nie krępuj się sprawdzić [stronę zgłoszonych błędów](https://github.com/kasiaizak/notatki/issues).
-- You can also take a look at the [contributing guide](https://github.com/kasiaizak/notatki/blob/master/WSPOLTWORZENIE.md).
+- Nie krępuj się sprawdzić
+[stronę zgłoszonych błędów](https://github.com/kasiaizak/notatki/issues).
+- Zerknij również na 
+[Kodeks Postępowania](https://github.com/kasiaizak/notatki/blob/master/WSPOLTWORZENIE.md).
 
 ### Jak zacząć?
 
 - Jeśli szukasz miejsca do modyfikacji, sprawdź strukturę plików.
-- Jeśli chcesz dodać nowy plik, zrób to w odpowiedniej lokalizacji i upewnij się, że dodajesz również odniesienie do `_sidebar.md`
+- Jeśli chcesz dodać nowy plik, zrób to w odpowiedniej lokalizacji i upewnij
+się, że dodajesz również odniesienie do `_sidebar.md`
 
 ## Autor
 
 👤 **Kasia Izak**
 
-* Website: https://www.kasiaizak.pl
-* Twitter: [@kasiaizak](https://twitter.com/kasiaizak)
-* Github: [@kasiaizak](https://github.com/kasiaizak)
-* LinkedIn: [@katarzyna-izak](https://linkedin.com/in/katarzyna-izak)
+- Website: [www.kasiaizak.pl](https://www.kasiaizak.pl)
+- Twitter: [@kasiaizak](https://twitter.com/kasiaizak)
+- Github: [@kasiaizak](https://github.com/kasiaizak)
+- LinkedIn: [@katarzyna-izak](https://linkedin.com/in/katarzyna-izak)
 
 ## Okaż swoje wsparcie
 
@@ -72,4 +79,5 @@ Copyright © 2020 [Kasia Izak](https://github.com/kasiaizak).
 This project is [MIT](../LICENSE.md) licensed.
 
 ***
-_To README zostało wygenerowane z❤️ przez [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_To README zostało wygenerowane z❤️ przez
+[readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
