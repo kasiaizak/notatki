@@ -6,7 +6,7 @@
 
 ## 🏠 Strona domowa
 
-[Notatnik](https://kasiaizak.github.io/notatki/index.html)
+[Notatnik](https://kasiaizak.github.io/notatki/)
 
 ## Instalacja lokalna
 
