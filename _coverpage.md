@@ -1,8 +1,8 @@
 <!-- markdownlint-disable MD041 -->
 
-![logo](_media/notes.svg ':size=600x600')
+![logo](_media/notes.svg ':size=400x400')
 
 # Notatki początkującego frontendowca
 
-[GitHub](https://github.com/kasiaizak/notatki)
-[Zaczynamy](README.md)
+[Start](https://kasiaizak.github.io/notatki/#/podstawy)
+[Przeczytaj to](README.md)
