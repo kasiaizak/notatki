@@ -4,5 +4,5 @@
 
 # Notatki początkującego frontendowca
 
-[Start](https://kasiaizak.github.io/notatki/#/podstawy)
 [Przeczytaj to](README.md)
+[Start](https://kasiaizak.github.io/notatki/#/podstawy)
