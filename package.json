@@ -1,0 +1,25 @@
+{
+    "name": "notatki",
+    "version": "1.0.0",
+    "description": "Notatki",
+    "main": "index.md",
+    "dependencies": {
+        "markdownlint-cli": "^0.22.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "npm run lint",
+        "lint": "markdownlint . --ignore node_modules"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kasiaizak/notatki.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kasiaizak/notatki/issues"
+    },
+    "homepage": "https://github.com/kasiaizak/notatki#readme"
+}
