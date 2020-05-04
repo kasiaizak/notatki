@@ -75,9 +75,9 @@ decyzją innych liderów projektu.
 
 Ten Kodeks Postępowania został zaadaptowany z [Contributor Covenant][homepage]
 w wersji 1.4, dostępnej pod adresem
-(//www.contributor-covenant.org/version/1/4/code-of-conduct.html) (w
+www.contributor-covenant.org/version/1/4/code-of-conduct.html (w
 języku angielskim) oraz
-(//www.contributor-covenant.org/pl/version/1/4/code-of-conduct.html) (w
+www.contributor-covenant.org/pl/version/1/4/code-of-conduct.html (w
 języku polskim).
 
 [homepage]: https://www.contributor-covenant.org/
