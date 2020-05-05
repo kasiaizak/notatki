@@ -6,7 +6,7 @@
 
 ## 🏠 Strona domowa
 
-[Frontendowe notatki](http://dev.kasiaizak.pl/#/podstawy.md)
+[Frontendowe notatki](http://dev.kasiaizak.pl/#/podstawy)
 
 ## 🖥️ Instalacja lokalna
 
@@ -59,9 +59,7 @@ widziane!
 - Jeśli chcesz dodać nowy plik, zrób to w odpowiedniej lokalizacji i upewnij
 się, że dodajesz również odniesienie do `_sidebar.md`
 
-## 👩‍💻 Autor
-
-**Kasia Izak**
+## 👩‍💻 Autor - Kasia Izak
 
 - Website: [www.kasiaizak.pl](https://www.kasiaizak.pl)
 - Twitter: [@kasiaizak](https://twitter.com/kasiaizak)
@@ -70,13 +68,13 @@ się, że dodajesz również odniesienie do `_sidebar.md`
 
 ## ⭐️ Okaż swoje wsparcie
 
-Zostaw ⭐️ jeśli ten projekt Ci pomógł!
+Zostaw ⭐️ prze repozytorium na GitHubie, jeśli ten projekt Ci pomógł!
 
 ## 📝 Licencja
 
 Copyright © 2020 [Kasia Izak](https://github.com/kasiaizak).
 
-This project is [MIT](../LICENSE.md) licensed.
+This project is [MIT](../LICENSE) licensed.
 
 ***
 _To README zostało wygenerowane z ❤️ przez

@@ -1,6 +1,9 @@
 # 🔗 Przydatne linki
 
+<!-- markdownlint-disable MD013 -->
+
 ## 🔥 Hot!
+
 - [Oficjalny VALIDATOR HTNL od W3C](https://validator.w3.org/nu/#textarea)
 
 ## 📄 Dokumentacja
