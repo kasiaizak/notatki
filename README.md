@@ -1,4 +1,4 @@
-# Witaj we Frontendowych notatkach 👋
+# 👋 Witaj we Frontendowych notatkach
 <!-- markdownlint-disable MD013 -->
 [![Twitter: kasiaizak](https://img.shields.io/twitter/follow/kasiaizak.svg?style=social)](https://twitter.com/kasiaizak)
 
@@ -8,7 +8,7 @@
 
 [Frontendowe notatki](http://dev.kasiaizak.pl/#/podstawy.md)
 
-## Instalacja lokalna
+## 🖥️ Instalacja lokalna
 
 Zalecana instalacia globalna pakietu `docsify-cli`, która umożliwi podgląd na żywo.
 
@@ -16,14 +16,14 @@ Zalecana instalacia globalna pakietu `docsify-cli`, która umożliwi podgląd na
 npm i docsify-cli -g
 ```
 
-### Edycja treści
+### ✏️ Edycja treści
 
 - `index.html` - plik wejściowy
 - `README.md` - strona główna
 - `_sidebar.md` - pasek boczny
 - `_coverpage.md` - strona tytułowa
 
-### Podgląd strony
+### 🧐 Podgląd strony
 
 Uruchamiając serwer lokalnie można podglądać zmiany strony na żywo pod adresem
 <http://localhost:3000>.
@@ -53,22 +53,22 @@ widziane!
 - Zerknij również na
 [Kodeks Postępowania](https://github.com/kasiaizak/notatki/blob/master/WSPOLTWORZENIE.md).
 
-### Jak zacząć?
+### 🤔 Jak zacząć?
 
 - Jeśli szukasz miejsca do modyfikacji, sprawdź strukturę plików.
 - Jeśli chcesz dodać nowy plik, zrób to w odpowiedniej lokalizacji i upewnij
 się, że dodajesz również odniesienie do `_sidebar.md`
 
-## Autor
+## 👩‍💻 Autor
 
-👤 **Kasia Izak**
+**Kasia Izak**
 
 - Website: [www.kasiaizak.pl](https://www.kasiaizak.pl)
 - Twitter: [@kasiaizak](https://twitter.com/kasiaizak)
 - Github: [@kasiaizak](https://github.com/kasiaizak)
 - LinkedIn: [@katarzyna-izak](https://linkedin.com/in/katarzyna-izak)
 
-## Okaż swoje wsparcie
+## ⭐️ Okaż swoje wsparcie
 
 Zostaw ⭐️ jeśli ten projekt Ci pomógł!
 
