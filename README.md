@@ -12,7 +12,7 @@
 
 Zalecana instalacia globalna pakietu `docsify-cli`, która umożliwi podgląd na żywo.
 
-```sh
+```bash
 npm i docsify-cli -g
 ```
 
@@ -28,7 +28,7 @@ npm i docsify-cli -g
 Uruchamiając serwer lokalnie można podglądać zmiany strony na żywo pod adresem
 <http://localhost:3000>.
 
-```sh
+```bash
 docsify serve
 ```
 
