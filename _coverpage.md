@@ -4,5 +4,5 @@
 
 # Frontendowe notatki
 
-[Przeczytaj to](README)
-[Start](podstawy)
+[Przeczytaj to](README.md)
+[Start](podstawy.md)

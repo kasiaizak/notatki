@@ -6,7 +6,7 @@
 
 ## 🏠 Strona domowa
 
-[Frontendowe notatki](http://dev.kasiaizak.pl/#/podstawy)
+[Frontendowe notatki](http://dev.kasiaizak.pl/#/podstawy.md)
 
 ## 🖥️ Instalacja lokalna
 
@@ -50,8 +50,7 @@ widziane!
 
 - Nie krępuj się sprawdzić
 [stronę zgłoszonych błędów](https://github.com/kasiaizak/notatki/issues).
-- Zerknij również na
-[Kodeks Postępowania](https://github.com/kasiaizak/notatki/blob/master/WSPOLTWORZENIE.md).
+- Zerknij również na [Kodeks Postępowania](WSPOLTWORZENIE.md).
 
 ### 🤔 Jak zacząć?
 
@@ -74,7 +73,7 @@ Zostaw ⭐️ prze repozytorium na GitHubie, jeśli ten projekt Ci pomógł!
 
 Copyright © 2020 [Kasia Izak](https://github.com/kasiaizak).
 
-This project is [MIT](LICENSE) licensed.
+This project is [MIT](LICENSE.md) licensed.
 
 ***
 _To README zostało wygenerowane z ❤️ przez
