@@ -79,5 +79,5 @@ Copyright © 2020 [Kasia Izak](https://github.com/kasiaizak).
 This project is [MIT](../LICENSE.md) licensed.
 
 ***
-_To README zostało wygenerowane z❤️ przez
+_To README zostało wygenerowane z ❤️ przez
 [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
