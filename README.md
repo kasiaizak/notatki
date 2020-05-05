@@ -74,7 +74,7 @@ Zostaw ⭐️ prze repozytorium na GitHubie, jeśli ten projekt Ci pomógł!
 
 Copyright © 2020 [Kasia Izak](https://github.com/kasiaizak).
 
-This project is [MIT](../LICENSE) licensed.
+This project is [MIT](LICENSE) licensed.
 
 ***
 _To README zostało wygenerowane z ❤️ przez
