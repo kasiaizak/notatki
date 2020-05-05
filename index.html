@@ -14,9 +14,9 @@
     <div id="app"></div>
     <script>
         if (typeof navigator.serviceWorker !== 'undefined') {
-          navigator.serviceWorker.register('sw.js')
+            navigator.serviceWorker.register('sw.js')
         }
-      </script>
+    </script>
     <script>
         window.$docsify = {
             auto2top: true,
@@ -42,6 +42,15 @@
             }
         }
     </script>
+
+    <!-- Disqus -->
+    <script>
+        window.$docsify = {
+            disqus: 'notatki'
+        }
+    </script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
+
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>

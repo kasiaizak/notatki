@@ -6,7 +6,7 @@
 
 ## 🏠 Strona domowa
 
-[Notatnik](https://kasiaizak.github.io/notatki/)
+[Frontendowe notatki](http://dev.kasiaizak.pl/#/notatki/)
 
 ## Instalacja lokalna
 
@@ -50,7 +50,7 @@ widziane!
 
 - Nie krępuj się sprawdzić
 [stronę zgłoszonych błędów](https://github.com/kasiaizak/notatki/issues).
-- Zerknij również na 
+- Zerknij również na
 [Kodeks Postępowania](https://github.com/kasiaizak/notatki/blob/master/WSPOLTWORZENIE.md).
 
 ### Jak zacząć?

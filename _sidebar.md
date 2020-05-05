@@ -7,10 +7,3 @@
     + [Znaczniki w HEAD](html/znaczniki-head.md)
     + [Znaczniki w BODY](html/znaczniki-body.md)
     + [Linki](html/linki.md)
-- CSS
-    + CSS
-- JavaScript
-- Narzędzia
-    + Konsola / Terminal
-    + Git
-    + Note.js & NPM

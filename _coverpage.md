@@ -2,7 +2,7 @@
 
 ![logo](_media/notes.svg ':size=400x400')
 
-# Notatki początkującego frontendowca
+# Frontendowe notatki
 
 [Przeczytaj to](README.md)
-[Start](https://kasiaizak.github.io/notatki/#/podstawy)
+[Start](http://dev.kasiaizak.pl/#/podstawy)
