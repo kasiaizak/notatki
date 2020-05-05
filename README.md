@@ -6,7 +6,7 @@
 
 ## 🏠 Strona domowa
 
-[Frontendowe notatki](http://dev.kasiaizak.pl/#/notatki/)
+[Frontendowe notatki](http://dev.kasiaizak.pl/#/podstawy.md)
 
 ## Instalacja lokalna
 
