@@ -1,14 +1,21 @@
-# Struktura pliku HTML
+# HTML
 
-## Budowa znaczników
+**HTML** to skrót z ang. *HyperText Markup Language*, w polskim tłumaczeniu:
+hipertekstowy język znaczników.
 
-```html
-  <znacznik atrybut="wartość">treść</znacznik>
-```
+HTML opakowuje i opisuje treść (warstwę 0) strony - mówi przeglądarce o
+strukturze dokumentu i o znaczeniu treści na stronie (semantyka). Treść to
+wszystko co jest nośnikiem informacji: teksty, nagłówki, linki, listy,
+definicje, obrazki, video, formularze, itd.
 
-Atrybuty nie zawsze są wymagane. Niektóre znaczniki nie mają /zamknięcia.
+**HTML** posiada swoją zdefiniowaną składnię i *nie jest językiem
+programowania* - **jest językiem znaczników**.
 
-## Szkielet strony internetowej
+Pliki mają rozszerzenie: `.html`
+
+## Struktura pliku HTML
+
+### Szkielet strony internetowej
 
 Na początku dokumentu deklarujemy w jakiej wersji języka HTML będziemy pisać,
 np. `<!DOCTYPE html>` - w tym przypadku jest to HTML 5. Znacznik ten jest
@@ -40,3 +47,13 @@ strony - *`lang="kod_kraju"`*.
     </body>
   </html>
 ```
+
+### Znaczniki i ich bdowa
+
+Znaczniki treści nadają jej sens i ważność.
+
+```html
+  <znacznik atrybut="wartość">treść</znacznik>
+```
+
+Atrybuty nie zawsze są wymagane. Niektóre znaczniki nie mają /zamknięcia.
