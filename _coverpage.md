@@ -5,4 +5,4 @@
 # Frontendowe notatki
 
 [Przeczytaj to](README.md)
-[Start](http://dev.kasiaizak.pl/#/podstawy)
+[Start](podstawy.md)
