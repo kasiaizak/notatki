@@ -9,21 +9,37 @@ Pobieramy instalator i instalujemy z uprawnieniami administratora.
 
 GitHub...
 
+## Konfiguracja
+
+- `git config --list` - pokazuje konfigurację wszystkich opcji danego repozytorium
+- `git config opcja` - pokazuje konfigurację danej opcji (np. `git config user.name`)
+- `git config --global user.name "Jan Kowalski"`
+- `git config --global user.email jkowalski@example.com`
+- `git config --global core.editor code` - ustawienie Visual Studio Code jako domyślnego edytora dla gita
+
 ## Polecenia
 
-- `git init` - inicjuje repozytorium
-- `git status` - wyświetla stan
+- `git init` - inicjuje lokalne repozytorium
+- `git clone adres_repo.git [katalog]` - pobieranie istniejącego repo z serwera
 - `git add . [*] [nazwa_pliku]` - dodawanie do śledzenia zmian
-- `git commit -m "treść komentarza"` - commitowanie / komentowanie
-- `git log` - pokazuje komentarze
-- `git push [origin nazwa_galezi] [--all]` - wypychanie na serwer
+- `git commit -m "treść komentarza"` - zatwierdzamy wersję plików w lokalnym repozytorium
+- `git status` - wyświetla informacje o aktualnym stanie repozytorium
+- `git diff` - komenda wyświetla porównanie różnic plików znajdujących się w poczekalni z plikami zatwierdzonymi w lokalnym repozytorium
+- `git rm nazwa_pliku` - usuwa plik z repozytorium
+- `git mv przenosimy_z przenosimy_do` - komenda służąca  do przeniesienia pliku
+- `git checkout -- nazwa_pliku` - przywraca ostatnią zapamiętaną wersję pliku z lokalnego repozytorium - wszystkie zmiany w pliku zostaną usunięte
+- `git log` - pokazuje wszystkie zatwierdzony zmiany w lokalnym repozytorium
+- `git remote [-v]` - pokazuje nazwy zdalnych serwerów z naszym repozytorium [pokazuje url zdalnego repozytorium]
+- `git remote add origin adres_repo.git` - tworzy powiązanie lokalnego repozytorium z repozytorium zdalnym
+- `git fetch nazwa_zdalnego_repozytorium` - pobranie zdalnego repozytorium
+- `git pull` - pobranie plików ze zdalnego repozytorium i ich scalanie z aktualnymi plikami w repozytorium lokalnym
+- `git push [origin nazwa_galezi] [--all]` - wysyłanie stanu repozytorium lokalnego do repozytorium zdalnego
 - `git checkout [-b] nazwa_galezi` - [tworzy i] przechodzi do gałęzi
 - `git branch` - pokazuje gałęzie
 - `git branch -d nazwa_galezi` - usuwa gałąź lokalną
-- `git diff galaz1..galaz2` - pokazuje różnice pomiędzy galęziami
+- `git diff galaz1..galaz2` - pokazuje różnice pomiędzy gałęziami
 - `git merge galaz1 galaz2` - łączy gałęzie
 - `git push origin --delete nazwa_galezi` - usuwanie gałęzi z serwera
-- `git clone adres_repo` - pobieranie istniejącego repo z serwera
 
 ## Pliki specjalne
 
