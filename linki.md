@@ -4,7 +4,7 @@
 
 ## 🔥 Hot!
 
-- [Oficjalny VALIDATOR HTNL od W3C](https://validator.w3.org/nu/#textarea)
+- [Oficjalny VALIDATOR HTML od W3C](https://validator.w3.org/nu/#textarea)
 
 ## 📄 Dokumentacja
 
