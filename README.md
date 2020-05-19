@@ -67,7 +67,7 @@ się, że dodajesz również odniesienie do `_sidebar.md`
 
 ## ⭐️ Okaż swoje wsparcie
 
-Zostaw ⭐️ prze repozytorium na GitHubie, jeśli ten projekt Ci pomógł!
+Zostaw ⭐️ przy repozytorium na GitHubie, jeśli ten projekt Ci pomógł!
 
 ## 📝 Licencja
 
