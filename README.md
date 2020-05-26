@@ -2,7 +2,14 @@
 <!-- markdownlint-disable MD013 -->
 [![Twitter: kasiaizak](https://img.shields.io/twitter/follow/kasiaizak.svg?style=social)](https://twitter.com/kasiaizak)
 
-> Notatki początkującego frontendowca - materiały zbierane podczas nauki frontendu.
+**Frontendowe notatki** to moje materiały zbierane podczas nauki frontendu.
+Dobrze je opisze, zmodyfikowany na własne potrzeby, cytat _prof. Jana Miodka_.
+
+> _Teoria: jest wtedy, kiedy wiemy wszystko, a nic nie działa!_ 🧐⛔
+>
+> _Praktyka: jest wtedy, kiedy wszystko działa, a nikt nie wie dlaczego._ 👌🤔
+>
+> _W tym notatniku łączymy teorię z praktyką - nic nie działa i nikt nie wie dlaczego..._ 🤦‍♀️😱
 
 ## 🏠 Strona domowa
 
