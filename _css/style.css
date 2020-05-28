@@ -1,0 +1,28 @@
+:root {
+  --cover-raspberry: #C0185D;
+  --cover-light: #fff2f8;
+  --cover-violet: #574996;
+}
+
+.github-corner svg {
+  color: var(--cover-light);
+  fill: var(--cover-raspberry);
+}
+
+section.cover .anchor span {
+  color: var(--cover-raspberry);
+}
+
+section.cover .cover-main > p:last-child a {
+  color: var(--cover-light);
+  border-color: var(--cover-light);
+}
+
+section.cover .cover-main > p:last-child a:last-child {
+  background-color: var(--cover-raspberry);
+}
+
+section.cover .cover-main > p:last-child a:hover,
+section.cover .cover-main>p:last-child a:last-child:hover {
+  color: var(--cover-violet);
+}
