@@ -57,3 +57,34 @@ Znaczniki treści nadają jej sens i ważność.
 ```
 
 Atrybuty nie zawsze są wymagane. Niektóre znaczniki nie mają /zamknięcia.
+
+## Linkowanie do plików
+
+Jak już wiem z modułu podstawowego omawiającego budowę strony internetowej -
+strony zazwyczaj opierają się na odpowiedniej strukturze plików i katalogów.
+Nie jest to kluczowe dla odbiorcy strony, ale zdecydowanie pomaga jej autorowi.
+Taka drzewiasta budowa wymaga jednak umiejętnego poruszania się po plikach
+podczas linkowania do odpowiednich materiałów.
+
+Weźmy ponownie naszą przykładową stronę:
+
+![File structure](../_media/file-structure.jpg)
+
+Jeśli chcemy podlinkować obrazek z folderu **assets/img** na stronie głównej _index.html_, to najpierw wejdziemy do odpowiednich katalogów, a następnie wybierzemy plik:
+
+- `assets/img/image.jpg` lub
+- `./assets/img/image.jpg`, gdzie pojedyncza kropka symbolizuje bieżący folder
+- uważać za to należy na ścieżką `/assets/img/image.jpg`, czyli rozpoczynającą
+się od samego znaku / - idzie ona na sam początek adresu. Będzie działało
+lokalnie, ale w pewnych przypadkach na serwerze plik może nie być poprawnie
+linkowany i zależy to od struktury katalogów. Jeśli np. stawiamy stronę pod
+domeną główną _strona.pl_ to zadziała, ale jeśli ma być to oddzielna strona w
+podkatalogu, np. _strona.pl/podstrona/_ to zamiast otrzymać oczekiwanego linku
+do pliku w postaci: _strona.pl/podstrona/assets/img/image.jpg_ otrzymamy
+_strona.pl/assets/img/image.jpg_ i obrazek się nie wyświetli...
+
+By ten sam obrazek podlinkować na podstronie _site-one.html_, która znajduje
+się w folderze **sites**, najpierw musimy wyjść z tego katalogu, by ponownie
+wejść w ścieżkę obrazka:
+
+`../assets/img/image.jpg`

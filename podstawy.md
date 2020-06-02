@@ -14,3 +14,10 @@ Kolejne warstwy to:
 Wyższe warstwy mogą wpływać na wszystkie warstwy poniżej, czyli:
 
 `JavaScript > CSS > HTML > TREŚĆ`
+
+# Struktura plików
+
+Dobrze zbudowana strona opiera się na porządku w plikach i katalogach.
+Przykładowa struktura katalogów może wyglądać w ten sposób:
+
+![File structure](../_media/file-structure.jpg)
