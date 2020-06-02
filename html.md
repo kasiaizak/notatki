@@ -74,7 +74,7 @@ Jeśli chcemy podlinkować obrazek z folderu **assets/img** na stronie głównej
 
 - `assets/img/image.jpg` lub
 - `./assets/img/image.jpg`, gdzie pojedyncza kropka symbolizuje bieżący folder
-- uważać za to należy na ścieżką `/assets/img/image.jpg`, czyli rozpoczynającą
+- uważać za to należy na ścieżkę `/assets/img/image.jpg`, czyli rozpoczynającą
 się od samego znaku / - idzie ona na sam początek adresu. Będzie działało
 lokalnie, ale w pewnych przypadkach na serwerze plik może nie być poprawnie
 linkowany i zależy to od struktury katalogów. Jeśli np. stawiamy stronę pod
