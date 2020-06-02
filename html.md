@@ -60,7 +60,7 @@ Atrybuty nie zawsze są wymagane. Niektóre znaczniki nie mają /zamknięcia.
 
 ## Linkowanie do plików
 
-Jak już wiem z modułu podstawowego omawiającego budowę strony internetowej -
+Jak już wiemy z modułu podstawowego omawiającego budowę strony internetowej -
 strony zazwyczaj opierają się na odpowiedniej strukturze plików i katalogów.
 Nie jest to kluczowe dla odbiorcy strony, ale zdecydowanie pomaga jej autorowi.
 Taka drzewiasta budowa wymaga jednak umiejętnego poruszania się po plikach
