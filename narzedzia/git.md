@@ -7,8 +7,6 @@ komputerze.
 
 Pobieramy instalator i instalujemy z uprawnieniami administratora.
 
-GitHub...
-
 ## Konfiguracja
 
 - `git config --list` - pokazuje konfigurację wszystkich opcji danego repozytorium
@@ -16,6 +14,10 @@ GitHub...
 - `git config --global user.name "Jan Kowalski"`
 - `git config --global user.email jkowalski@example.com`
 - `git config --global core.editor code` - ustawienie Visual Studio Code jako domyślnego edytora dla gita
+
+## Pliki specjalne
+
+*.gitignore* - służy do ignorowania śledzenia plików / folderów
 
 ## Polecenia
 
@@ -41,9 +43,19 @@ GitHub...
 - `git merge galaz1 galaz2` - łączy gałęzie
 - `git push origin --delete nazwa_galezi` - usuwanie gałęzi z serwera
 
-## Pliki specjalne
+## Problemy
 
-*.gitignore* - służy do ignorowania śledzenia plików / folderów
+Przy poleceniu `git add .` możemy czasem otrzymać ostrzeżenie w stylu:
+
+> warning: LF will be replaced by CRLF in style.css. The file will have its original line endings in your working directory
+
+Wynika to z różnic w sekwencji znaków oznaczających zakończenie linii tekstu, które występują jako domyślne w różnych systemach operacyjnych. W Visual Studio Code możemy podejrzeć to ustawienie w prawym dolnym rogu ekranu:
+
+![Line Sequence](../_media/line-sequence.jpg)
+
+Możemy skonfigurować git'a, by nie sprawdzał jakie jest zakończenie linii, co rozwiąże nasz problem:
+
+`git config --global core.autocrlf false`
 
 ## Linki
 
