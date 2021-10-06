@@ -1,8 +1,9 @@
-# 👋 Witaj we Frontendowych notatkach
+# 👋 Witaj na stronie dev.kasiaizak.pl
 <!-- markdownlint-disable MD013 -->
 [![Twitter: kasiaizak](https://img.shields.io/twitter/follow/kasiaizak.svg?style=social)](https://twitter.com/kasiaizak)
 
-**Frontendowe notatki** to moje materiały zbierane podczas nauki frontendu.
+**dev.kasiaizak.pl** (dawniej **Frontendowe notatki**) to moje materiały zbierane podczas nauki nauki frontendu, a także podczas aktualnej pracy na stanowisku Junior Frontend / WordPress Developera.
+
 Parafrazując cytat _prof. Jana Miodka_.
 
 > _Teoria: jest wtedy, kiedy wiemy wszystko, a nic nie działa!_ 🧐⛔
@@ -13,7 +14,7 @@ Parafrazując cytat _prof. Jana Miodka_.
 
 ## 🏠 Strona domowa
 
-[Frontendowe notatki](http://dev.kasiaizak.pl/#/podstawy.md)
+[dev.kasiaizak.pl](http://dev.kasiaizak.pl/#/podstawy.md)
 
 ## 🖥️ Instalacja lokalna
 

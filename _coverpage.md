@@ -2,7 +2,7 @@
 
 ![logo](_media/notes.svg ':size=250')
 
-# Frontendowe notatki
+# dev.kasiaizak.pl
 
 [Przeczytaj to](README.md)
 [Start](podstawy.md)
