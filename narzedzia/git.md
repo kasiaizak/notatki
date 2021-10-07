@@ -2,8 +2,7 @@
 
 ## System kontroli wersji - git
 
-Git to jeden z systemów kontroli wersji, uruchamiany lokalnie na naszym
-komputerze.
+Git to jeden z systemów kontroli wersji, uruchamiany lokalnie na naszym komputerze.
 
 Pobieramy instalator i instalujemy z uprawnieniami administratora.
 
@@ -51,7 +50,7 @@ Przy poleceniu `git add .` możemy czasem otrzymać ostrzeżenie w stylu:
 
 Wynika to z różnic w sekwencji znaków oznaczających zakończenie linii tekstu, które występują jako domyślne w różnych systemach operacyjnych. W Visual Studio Code możemy podejrzeć to ustawienie w prawym dolnym rogu ekranu:
 
-![Line Sequence](../_media/line-sequence.jpg)
+![Line Sequence](../_media/tools/git/line-sequence.jpg)
 
 Możemy skonfigurować git'a, by nie sprawdzał jakie jest zakończenie linii, co rozwiąże nasz problem:
 

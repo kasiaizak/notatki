@@ -1,7 +1,6 @@
 # Budowa strony internetowej
 
-Strony internetowe składają się z warstw. Najniższa z nich (ale najważniejsza),
-warstwa 0, to **treść**.
+Strony internetowe składają się z warstw. Najniższa z nich (ale najważniejsza), warstwa 0, to **treść**.
 
 > Content is a king!
 
@@ -17,7 +16,6 @@ Wyższe warstwy mogą wpływać na wszystkie warstwy poniżej, czyli:
 
 # Struktura plików
 
-Dobrze zbudowana strona opiera się na porządku w plikach i katalogach.
-Przykładowa struktura katalogów może wyglądać w ten sposób:
+Dobrze zbudowana strona opiera się na porządku w plikach i katalogach. Przykładowa struktura katalogów może wyglądać w ten sposób:
 
-![File structure](../_media/file-structure.jpg)
+![File structure](../_media/basic/file-structure.jpg)
