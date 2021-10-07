@@ -2,8 +2,7 @@
 
 ## meta
 
-Znacznik `<meta>` może np. ustawiać kodowanie znaków, np. do obsługi m.in.
-polskich znaków:
+Znacznik `<meta>` może np. ustawiać kodowanie znaków, np. do obsługi m.in. polskich znaków:
 
 ```html
   <meta charset="UTF-8">
@@ -11,8 +10,7 @@ polskich znaków:
 
 ## title
 
-Znacznik `<title>` odpowiada za tytuł strony widoczny m.in. w zakładkach
-przeglądarki
+Znacznik `<title>` odpowiada za tytuł strony widoczny m.in. w zakładkach przeglądarki
 
 ```html
   <title>Tytuł strony</title>
@@ -20,8 +18,7 @@ przeglądarki
 
 ## style
 
-Znacznik `<style>` służy do osadzenia reguł CSS bezpośrednio w dokumencie
-HTML (obecnie rzadko stosowane)
+Znacznik `<style>` służy do osadzenia reguł CSS bezpośrednio w dokumencie HTML (obecnie rzadko stosowane)
 
 ```html
   <style>

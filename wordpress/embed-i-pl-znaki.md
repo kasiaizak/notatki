@@ -1,7 +1,6 @@
 # Embed i polskie znaki
 
-A oto lekarstwo na brak polskich znaków w osadzanych treściach `<embed>` na
-**WordPress**. ;-)
+Lekarstwo na brak polskich znaków w osadzanych treściach `<embed>` na **WordPress**. ;-)
 
 ```php
 function fix_wp_embed_charset(){
