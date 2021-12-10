@@ -2,7 +2,7 @@
 <!-- markdownlint-disable MD013 -->
 [![Twitter: kasiaizak](https://img.shields.io/twitter/follow/kasiaizak.svg?style=social)](https://twitter.com/kasiaizak)
 
-**dev.kasiaizak.pl** (dawniej **_Frontendowe notatki_**) to moje materiały zbierane podczas nauki frontendu 👩‍💻, a także podczas aktualnej pracy na stanowisku **Junior Frontend / WordPress Developera**. 😁💪 Czemu w takiej formie? Wybrane narzędzie oferuje łatwą implementację kolorowania składni 🌈, na czym mi najbardziej zależało - screenshoty 📷 są fajne, ale nie skopiujesz z nich łatwo kodu... 🤯 Gotowe serwisy oferujące podobną funkcjonalność mają swoje ograniczenia ⛔, a tu _Wolność Tomku w swoim domku_. 🤸‍♀️🏡 Z drugiej strony stworzenie tego projektu w oparciu o czysty HTML i CSS jest oczywiście możliwe, ale byłoby zdecydowanie bardziej pracochłonne 🙄, a chyba każdy się zgodzi, że nie o to chodzi przy robieniu notatek... 😏 Ma być szybko 🚀 i prosto 👶 - moim zdaniem cel został osiągnięty. 👌😍
+**dev.kasiaizak.pl** (dawniej **_Frontendowe notatki_**) to moje materiały zbierane podczas nauki frontendu 👩‍💻, a także podczas aktualnej pracy na stanowisku **Junior Frontend / WordPress Developera**. 😁💪 Czemu w takiej formie? Wybrane narzędzie oferuje łatwą implementację kolorowania składni 🌈, na czym mi najbardziej zależało - screenshoty 📷 są przereklamowane - fajne, ale nie skopiujesz z nich łatwo kodu... 🤯 Gotowe serwisy oferujące podobną funkcjonalność mają swoje ograniczenia ⛔, a tu _Wolność Tomku w swoim domku_. 🤸‍♀️🏡 Z drugiej strony stworzenie tego projektu w oparciu o czysty HTML i CSS jest oczywiście możliwe, ale byłoby zdecydowanie bardziej pracochłonne 🙄, a chyba każdy się zgodzi, że nie o to chodzi przy robieniu notatek... 😏 Ma być szybko 🚀 i prosto 👶 - moim zdaniem cel został osiągnięty. 👌😍
 
 A teraz parafrazując cytat _prof. Jana Miodka_ o materiałach tu zawartych...
 
@@ -26,11 +26,11 @@ git clone https://github.com/kasiaizak/notatki.git
 
 lub po prostu pobierając paczkę ZIP z [repozytorium](https://github.com/kasiaizak/notatki):
 
-![Repo](../_media/repo.jpg)
+![Repo](https://dev.kasiaizak.pl/_media/repo.jpg)
 
 ### 🧐 Podgląd strony na żywo
 
-Projekt ma wbudowaną funkcjonalność _Podglądu na żywo_, wymaga to jednak instalacji (najlepiej globalnie) pakietu `docsify-cli`. Niektóre edytory kodu oferują też taką funkcjonalność, np. [Visual Studio Code](https://code.visualstudio.com/) + rozszerzenie [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), jeśli korzystasz z takiego rozwiązanie, to pomożesz pominąć ten krok i przejść do kolejnej sekcji. 😉
+Projekt ma wbudowaną funkcjonalność _Podglądu na żywo_, wymaga to jednak instalacji (najlepiej globalnie) pakietu `docsify-cli`. Niektóre edytory kodu oferują też taką funkcjonalność, np. [Visual Studio Code](https://code.visualstudio.com/) + rozszerzenie [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), jeśli korzystasz z takiego rozwiązania, to pomożesz pominąć ten krok i przejść do kolejnej sekcji. 😉
 
 By korzystać z [pakietów npm](https://www.npmjs.com/) potrzebny jest *Node.js*. Jeśli nie masz jeszcze zainstalowanego Node.js to nic straconego... 😄 Tu znajduje się instalka i można szybko to nadrobić: [oficjalna strona Node.js](https://nodejs.org/en/).
 
