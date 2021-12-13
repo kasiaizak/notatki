@@ -30,7 +30,7 @@ lub po prostu pobierając paczkę ZIP z [repozytorium](https://github.com/kasiai
 
 ### 🧐 Podgląd strony na żywo
 
-Projekt ma wbudowaną funkcjonalność _Podglądu na żywo_, wymaga to jednak instalacji (najlepiej globalnie) pakietu `docsify-cli`. Niektóre edytory kodu oferują też taką funkcjonalność, np. [Visual Studio Code](https://code.visualstudio.com/) + rozszerzenie [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), jeśli korzystasz z takiego rozwiązania, to pomożesz pominąć ten krok i przejść do kolejnej sekcji. 😉
+Projekt ma wbudowaną funkcjonalność _Podglądu na żywo_, wymaga to jednak instalacji (najlepiej globalnie) pakietu `docsify-cli`. Niektóre edytory kodu oferują też taką funkcjonalność, np. [Visual Studio Code](https://code.visualstudio.com/) + rozszerzenie [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), więc jeśli korzystasz z takiego rozwiązania, to możesz pominąć ten krok i przejść do kolejnej sekcji. 😉
 
 By korzystać z [pakietów npm](https://www.npmjs.com/) potrzebny jest *Node.js*. Jeśli nie masz jeszcze zainstalowanego Node.js to nic straconego... 😄 Tu znajduje się instalka i można szybko to nadrobić: [oficjalna strona Node.js](https://nodejs.org/en/).
 
