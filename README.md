@@ -1,5 +1,5 @@
 # 👋 Witaj na stronie dev.kasiaizak.pl
-<!-- markdownlint-disable MD013 -->
+
 [![Twitter: kasiaizak](https://img.shields.io/twitter/follow/kasiaizak.svg?style=social)](https://twitter.com/kasiaizak)
 
 **dev.kasiaizak.pl** (dawniej **_Frontendowe notatki_**) to moje materiały zbierane podczas nauki frontendu 👩‍💻, a także podczas aktualnej pracy na stanowisku **Junior Frontend / WordPress Developera**. 😁💪 Czemu w takiej formie? Wybrane narzędzie oferuje łatwą implementację kolorowania składni 🌈, na czym mi najbardziej zależało - screenshoty 📷 są przereklamowane - fajne, ale nie skopiujesz z nich łatwo kodu... 🤯 Gotowe serwisy oferujące podobną funkcjonalność mają swoje ograniczenia ⛔, a tu _Wolność Tomku w swoim domku_. 🤸‍♀️🏡 Z drugiej strony stworzenie tego projektu w oparciu o czysty HTML i CSS jest oczywiście możliwe, ale byłoby zdecydowanie bardziej pracochłonne 🙄, a chyba każdy się zgodzi, że nie o to chodzi przy robieniu notatek... 😏 Ma być szybko 🚀 i prosto 👶 - moim zdaniem cel został osiągnięty. 👌😍
@@ -14,7 +14,7 @@ A teraz parafrazując cytat _prof. Jana Miodka_ o materiałach tu zawartych...
 
 ## 🏠 Strona domowa
 
-[dev.kasiaizak.pl](http://dev.kasiaizak.pl/#/podstawy.md)
+[dev.kasiaizak.pl](http://dev.kasiaizak.pl/)
 
 ## 🖥️ Instalacja lokalna
 
