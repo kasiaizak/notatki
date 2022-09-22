@@ -5,11 +5,12 @@
         * [Znaczniki w HEAD](html/znaczniki-head.md)
         * [Znaczniki w BODY](html/znaczniki-body.md)
     + [CSS](css.md)
-- WordPress
-    + [Embed i PL znaki](wordpress/embed-i-pl-znaki.md)
 - Narzędzia
     + [Konsola](narzedzia/konsola.md)
     + [Git](narzedzia/git.md)
     + [Node](narzedzia/node.md)
     + [Visual Studio Code](narzedzia/vsc.md)
+    + [SSL lokalnie](narzedzia/ssl-lokalnie.md)
+- Baza danych
+    + [Zamiana ciągu znaków](baza-danych/zamiana-ciagu-znakow.md)
 - [Przydatne linki](linki.md)
