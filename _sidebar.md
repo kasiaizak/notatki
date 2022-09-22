@@ -11,6 +11,8 @@
     + [Node](narzedzia/node.md)
     + [Visual Studio Code](narzedzia/vsc.md)
     + [SSL lokalnie](narzedzia/ssl-lokalnie.md)
+- WordPress
+    + [Embed i PL znaki](wordpress/embed-i-pl-znaki.md)
 - Baza danych
     + [Zamiana ciągu znaków](baza-danych/zamiana-ciagu-znakow.md)
 - [Przydatne linki](linki.md)
