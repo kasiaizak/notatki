@@ -4,6 +4,7 @@
 
 ## 🔥 Hot!
 
+- [Markdown Guide](https://www.markdownguide.org/)
 - [Oficjalny VALIDATOR HTML od W3C](https://validator.w3.org/nu/#textarea)
 
 ## 📄 Dokumentacja
