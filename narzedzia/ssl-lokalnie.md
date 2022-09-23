@@ -239,5 +239,5 @@ Jeśli po jakimś czasie jest potrzeba zaktualizowania listy naszych hostów, to
 ---
 
 Źródła:
-- [How to create an HTTPS certificate for localhost domains](https://gist.github.com/cecilemuller/9492b848eb8fe46d462abeb26656c4f8) oraz [How to Enable HTTPS / SSL on WAMP Server 3.2.0](https://zuziko.com/tutorials/how-to-enable-https-ssl-on-wamp-server/)
-- [How to setup and enable https with SSL on wamp server virtual host](https://infyom.com/blog/how-to-enable-localhost-https-ssl-on-wamp-server)
+- [How to create an HTTPS certificate for localhost domains](https://gist.github.com/cecilemuller/9492b848eb8fe46d462abeb26656c4f8)
+- [How to setup and enable https with SSL on wamp server virtual host](https://infyom.com/blog/how-to-enable-localhost-https-ssl-on-wamp-server) oraz [How to Enable HTTPS / SSL on WAMP Server 3.2.0](https://zuziko.com/tutorials/how-to-enable-https-ssl-on-wamp-server/)
