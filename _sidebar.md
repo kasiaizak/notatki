@@ -13,6 +13,7 @@
     + [SSL lokalnie](narzedzia/ssl-lokalnie.md)
 - WordPress
     + [Embed i PL znaki](wordpress/embed-i-pl-znaki.md)
+    + [VS Code i Wordpress](wordpress/vscode-i-wordpress.md)
 - Baza danych
     + [Zamiana ciągu znaków](baza-danych/zamiana-ciagu-znakow.md)
 - [Przydatne linki](linki.md)
