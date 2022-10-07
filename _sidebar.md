@@ -9,7 +9,7 @@
     + [Konsola](narzedzia/konsola.md)
     + [Git](narzedzia/git.md)
     + [Node](narzedzia/node.md)
-    + [Visual Studio Code](narzedzia/vsc.md)
+    + [Visual Studio Code](narzedzia/vscode.md)
     + [SSL lokalnie](narzedzia/ssl-lokalnie.md)
 - WordPress
     + [Embed i PL znaki](wordpress/embed-i-pl-znaki.md)
