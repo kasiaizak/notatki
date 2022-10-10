@@ -51,7 +51,7 @@ SSLCertificateFile "${SRVROOT}/conf/server.crt"
 na:
 
 ```conf
-SSLCertificateFile "${SRVROOT}/conf//key/localhost.crt"
+SSLCertificateFile "${SRVROOT}/conf/key/localhost.crt"
 #SSLCertificateFile "${SRVROOT}/conf/server.crt"
 ```
 
