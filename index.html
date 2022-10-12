@@ -16,6 +16,9 @@
 </head>
 
 <body>
+  <div id="preloader" class="preloader">
+    <img class="loading-image" src="_media/loading.gif" alt="Loading..." />
+  </div>
   <div id="app"></div>
   <script>
     if (typeof navigator.serviceWorker !== 'undefined') {
@@ -58,6 +61,8 @@
     }
   </script>
 
+  <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+  <script src="_scripts/preloader.js"></script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>

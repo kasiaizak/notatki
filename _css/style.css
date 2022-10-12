@@ -11,6 +11,26 @@
   --cover-violet: #574996;
 }
 
+#preloader.preloader {
+  position: fixed;
+  display: block;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.8);
+  z-index: 99;
+}
+#preloader.preloader .loading-image {
+  position: sticky;
+  height: 10vh;
+  transform: translateY(-50%);
+  top: 50%;
+  width: auto;
+  z-index: 100;
+}
+
 .github-corner svg {
   color: var(--cover-light);
   fill: var(--cover-raspberry);
