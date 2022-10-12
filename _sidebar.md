@@ -5,6 +5,8 @@
         * [Znaczniki w HEAD](html/znaczniki-head.md)
         * [Znaczniki w BODY](html/znaczniki-body.md)
     + [CSS](css.md)
+- Gotowce
+    + [Preloader](gotowce/preloader.md)
 - Narzędzia
     + [Konsola](narzedzia/konsola.md)
     + [Git](narzedzia/git.md)
