@@ -77,4 +77,6 @@ Od tej pory kod będzie sprawdzany wg standardów *WordPress'a* i możemy go for
 
 ### Dodatkowo
 
-Niekonieczny, ale polecany dodatek do *VS Code* przy pracy z kodem PHP: [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) ale w [wersji PREMIUM](https://intelephense.com/) (15$ lifetime nie rujnuje budżetu) - dodatek ten posiada m.in. funkcję podpowiadanie składni czy szybki podgląd zależności, przenosi nas też do definicji kodu.
+Niekonieczny, ale polecany dodatek do *VS Code* przy pracy z kodem PHP: [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) ale w [wersji PREMIUM](https://intelephense.com/) (25€ lifetime) - dodatek ten posiada m.in. funkcję podpowiadanie składni czy szybki podgląd zależności, przenosi nas też do definicji kodu.
+
+W przypadku tego dodatku w **Ustawienia > Rozszerzenia > Intelephense** dodajemy w *Stubs* wartość `wordpress`.
