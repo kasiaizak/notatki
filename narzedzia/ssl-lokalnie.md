@@ -1,4 +1,10 @@
-# SSL lokalnie (środowisko *Windows* + *Wampserver*)
+# SSL lokalnie
+
+Ponieważ aktualnie zawodowo działam głównie na *WordPressie*, to do pracy lokalnej używam programu [Local](https://localwp.com/) - jest bardzo intuicyjny i pozwala w szybki sposób korzystać z serwera PHP wraz z SSL.
+
+Pozostawiam jednak te instrukcję, jeśli ktoś by potrzebował skonfigurować SSL korzystając z programu *Wampserver*.
+
+## Konfiguracja SSL w *Wampserver* (w środowisku *Windows*)
 
 ### 1. Przygotowanie *Wampserver* (te kroki wykonujemy raz na instalację)
 
