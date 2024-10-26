@@ -1,7 +1,5 @@
 # 👋 Witaj na stronie dev.kasiaizak.pl
 
-[![Twitter: kasiaizak](https://img.shields.io/twitter/follow/kasiaizak.svg?style=social)](https://twitter.com/kasiaizak)
-
 **dev.kasiaizak.pl** (dawniej **_Frontendowe notatki_**) to moje materiały zbierane podczas nauki frontendu 👩‍💻, a także podczas aktualnej pracy na stanowisku **Junior Frontend Developera**. 😁💪 Czemu w takiej formie? Wybrane narzędzie oferuje łatwą implementację kolorowania składni 🌈, na czym mi najbardziej zależało - screenshoty 📷 są przereklamowane - fajne, ale nie skopiujesz z nich łatwo kodu... 🤯 Gotowe serwisy oferujące podobną funkcjonalność mają swoje ograniczenia ⛔, a tu _Wolność Tomku w swoim domku_. 🤸‍♀️🏡 Z drugiej strony stworzenie tego projektu w oparciu o czysty HTML i CSS jest oczywiście możliwe, ale byłoby zdecydowanie bardziej pracochłonne 🙄, a chyba każdy się zgodzi, że nie o to chodzi przy robieniu notatek... 😏 Ma być szybko 🚀 i prosto 👶 - moim zdaniem cel został osiągnięty. 👌😍
 
 A teraz parafrazując cytat _prof. Jana Miodka_ o materiałach tu zawartych...
@@ -77,7 +75,6 @@ Współtworzenie, zgłaszanie błędów i zapytania o nowe funkcjonalności są 
 ## 👩‍💻 Autor - Kasia Izak
 
 - Website: [www.kasiaizak.pl](https://www.kasiaizak.pl)
-- Twitter: [@kasiaizak](https://twitter.com/kasiaizak)
 - Github: [@kasiaizak](https://github.com/kasiaizak)
 - LinkedIn: [@katarzyna-izak](https://linkedin.com/in/katarzyna-izak)
 
