@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 
-![logo](_media/logo/avatar-white.jpg ':size=250')
+![logo](_media/logo/photo.jpg ':size=250')
 
 # dev.kasiaizak.pl
 
