@@ -4,4 +4,4 @@
 
 # dev.kasiaizak.pl
 
-[Przeczytaj to](README.md) [Start](podstawy.md)
+[O projekcie](README.md) [Do notatek](podstawy.md)
