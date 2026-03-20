@@ -4,7 +4,7 @@
     "description": "Notatki",
     "main": "index.md",
     "dependencies": {
-        "markdownlint-cli": "^0.32.2"
+        "markdownlint-cli": "^0.48.0"
     },
     "scripts": {
         "test": "npm run lint",
